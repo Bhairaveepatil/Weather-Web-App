@@ -1,0 +1,14 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 24px 7px rgba(248, 246, 246, 0.2);
+    box-shadow: 0 0 24px 7px rgba(147, 182, 190, 0.2);
+    background-color: white;
+    color: black;
+    width: 85%;
+    max-width: 690px;
+    min-height: 300px;
+};

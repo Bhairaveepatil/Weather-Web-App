@@ -1,0 +1,12 @@
+form {
+    margin-top: 3rem;
+};
+
+form input[name="city"] {
+    border-bottom: 2px solid rgb(90, 86, 86);
+    border-radius: 0;
+};
+
+form input:focus {
+    box-shadow: none !important;
+};
